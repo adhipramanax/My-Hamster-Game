@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - key
+  - keyUI
+  - endWorld
+  - bgmusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2399766549
+    locked: 0
+  - name: material
+    uniqueID: 1516011649
+    locked: 0
+  - name: water
+    uniqueID: 2834159383
+    locked: 0
+  - name: trap
+    uniqueID: 3530969061
+    locked: 0
+  - name: block
+    uniqueID: 3672302201
+    locked: 0
+  - name: terain
+    uniqueID: 2741012961
+    locked: 0
+  - name: enemy
+    uniqueID: 3747278337
+    locked: 0
+  - name: player
+    uniqueID: 2582818977
+    locked: 0
